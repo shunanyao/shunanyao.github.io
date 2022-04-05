@@ -10,7 +10,7 @@ I am a Ph.D. student at University of Southern California.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
